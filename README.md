@@ -12,6 +12,9 @@ Admin Module:
     He manages the services requests which are raised by customer for the car services.
     Admin manages the product operations like add product ,delete product and can add car, delete car.
     The above operations are continued with the cars and customers data and the customer requests.
+
+
+    
 Customer Module:
     The customers are the people who can who buy items or raise the service requests. The customer can access the website frequently all the time and make the business to run essential.
     The customer can create or update his own record.
